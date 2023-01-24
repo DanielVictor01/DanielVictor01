@@ -5,7 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielVictor01&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVictor01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
   <div style="display: inline_block"><br>
     <img aling="center" alt="DanielHTML" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
