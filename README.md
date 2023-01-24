@@ -16,5 +16,9 @@
   
   <div>
     <a href= "https://www.linkedin.com/in/daniel-victor-103038209/" target="blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="blank"></a>
-  
-![Snake animation](https://github.com/DanielVictor01/DanielVictor01/blob/output/github-contribution-grid-snake.svg)
+
+
+
+ ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
+
+  ![Snake animation](https://github.com/DanielVictor01/DanielVictor01/blob/output/github-contribution-grid-snake.svg)
