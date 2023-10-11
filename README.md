@@ -1,7 +1,7 @@
 ### Olá, Meu Nome é Daniel Victor👋
 
 - 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas
-- 📕 Estudando HTML, CSS e Java Script
+- 📕 Estudando Swift
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielVictor01&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVictor01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
