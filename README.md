@@ -1,23 +1,14 @@
 ### 👋 Olá, eu sou Daniel Victor
 
-💻 Desenvolvedor em transição de carreira com foco em desenvolvimento iOS (Swift)
+💻 Em formação para Desenvolvedor iOS, com foco em Swift (UIKit e SwiftUI)
 
 📱 Experiência prática com:
-- Swift (UIKit e SwiftUI)
-- Construção de aplicações iOS
+- Desenvolvimento de aplicações iOS
 - Gerenciamento de estado (MVVM)
+- Navegação entre telas (SwiftUI)
 - Git e GitHub
 
-🚀 Atualmente desenvolvendo projetos práticos para consolidar minha base em programação e evoluir como desenvolvedor iOS.
-
----
-
-## 📂 Projetos em destaque
-
-- 📱 CalculadoraApp (UIKit)  
-- 🎮 PointsGameApp (SwiftUI + MVVM)  
-- 📋 AppRotina  
-- 🌐 CyberMoto (Projeto em equipe)
+🚀 Projetos disponíveis abaixo nos repositórios em destaque 👇
 
 ---
 
@@ -27,7 +18,7 @@
   <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 ---
